@@ -153,7 +153,7 @@ local function createLoadingScreen()
     loadingText.Size = UDim2.new(1, -40, 0, 30)
     loadingText.Position = UDim2.new(0, 20, 0, 20)
     loadingText.BackgroundTransparency = 1
-    loadingText.Text = "Loading Dark Spawner"
+    loadingText.Text = "Loading Script"
     loadingText.TextColor3 = Color3.fromRGB(255, 255, 255)
     loadingText.TextScaled = true
     loadingText.Font = Enum.Font.GothamMedium
